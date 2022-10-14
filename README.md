@@ -1,6 +1,6 @@
 
 
-<div id="banner">
+<div>
     <div class="text">
         <h6>who i'm i ?</h6>
         <h3>Introduction :</h3>
