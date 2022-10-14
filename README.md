@@ -1,10 +1,4 @@
-<style lang="scss">
-    #banner {
-        width: 100%;
-        height: 50vh;
-        display: flex;
-    }
-</style>
+
 
 <div id="banner">
     <div class="text">
