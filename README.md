@@ -1,4 +1,4 @@
-<!-- <h6>who i'm i ?</h6>
+<h6>who i'm i ?</h6>
 <h3>Introduction :</h3>
 
 <h6>
@@ -24,4 +24,4 @@
 
 ![Snake animation](https://raw.githubusercontent.com/Abdelhadi-Amhamdi/Abdelhadi-Amhamdi/115c4210cc6d7f606575e7ede02fc19e6a11212b/snake.svg)
 
-</div> -->
+</div>
