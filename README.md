@@ -14,6 +14,6 @@ I'm a passionate computer science student with a deep interest in software devel
 
 #### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/abdelhadi-aamhamdi-a680a5209/)
-- [Twitter](your-twitter-url)
+- [Twitter](https://x.com/AbdelhadiAmham1)
 
 Let's connect and collaborate on exciting projects!
